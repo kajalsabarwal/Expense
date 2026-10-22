@@ -1,0 +1,23 @@
+category,vendor,transactions,total_inr,category_rank
+Salaries,Salaries vendor 2,24,735778,1
+Salaries,Salaries vendor 1,24,732859,2
+Salaries,Salaries vendor 3,24,691363,3
+Rent,Rent vendor 1,12,480000,1
+Marketing,Marketing vendor 1,48,130430,1
+Travel,Travel vendor 1,48,113969,1
+Marketing,Marketing vendor 2,36,107846,2
+Marketing,Marketing vendor 3,36,94193,3
+Software,Software vendor 2,24,86992,1
+Software,Software vendor 1,24,86607,2
+Travel,Travel vendor 2,36,80562,2
+Travel,Travel vendor 3,36,79772,3
+Utilities,Utilities vendor 1,24,74674,1
+Software,Software vendor 3,12,38801,3
+Utilities,Utilities vendor 2,12,37336,2
+Meals,Meals vendor 1,72,36774,1
+Utilities,Utilities vendor 3,12,35233,3
+Meals,Meals vendor 3,60,30276,2
+Meals,Meals vendor 2,60,30080,3
+Office supplies,Office supplies vendor 2,36,28768,1
+Office supplies,Office supplies vendor 1,36,25937,2
+Office supplies,Office supplies vendor 3,24,21159,3

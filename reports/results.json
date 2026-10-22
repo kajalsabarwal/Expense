@@ -1,0 +1,748 @@
+{
+  "monthly_summary": [
+    {
+      "month": "2025-01",
+      "budget_inr": 306000,
+      "actual_inr": 302594,
+      "over_budget_inr": -3406,
+      "utilization": 0.9889,
+      "mom_change_pct": null
+    },
+    {
+      "month": "2025-02",
+      "budget_inr": 306000,
+      "actual_inr": 308602,
+      "over_budget_inr": 2602,
+      "utilization": 1.0085,
+      "mom_change_pct": 1.99
+    },
+    {
+      "month": "2025-03",
+      "budget_inr": 306000,
+      "actual_inr": 299702,
+      "over_budget_inr": -6298,
+      "utilization": 0.9794,
+      "mom_change_pct": -2.88
+    },
+    {
+      "month": "2025-04",
+      "budget_inr": 306000,
+      "actual_inr": 315932,
+      "over_budget_inr": 9932,
+      "utilization": 1.0325,
+      "mom_change_pct": 5.42
+    },
+    {
+      "month": "2025-05",
+      "budget_inr": 306000,
+      "actual_inr": 314538,
+      "over_budget_inr": 8538,
+      "utilization": 1.0279,
+      "mom_change_pct": -0.44
+    },
+    {
+      "month": "2025-06",
+      "budget_inr": 306000,
+      "actual_inr": 319803,
+      "over_budget_inr": 13803,
+      "utilization": 1.0451,
+      "mom_change_pct": 1.67
+    },
+    {
+      "month": "2025-07",
+      "budget_inr": 306000,
+      "actual_inr": 307725,
+      "over_budget_inr": 1725,
+      "utilization": 1.0056,
+      "mom_change_pct": -3.78
+    },
+    {
+      "month": "2025-08",
+      "budget_inr": 306000,
+      "actual_inr": 311516,
+      "over_budget_inr": 5516,
+      "utilization": 1.018,
+      "mom_change_pct": 1.23
+    },
+    {
+      "month": "2025-09",
+      "budget_inr": 306000,
+      "actual_inr": 312113,
+      "over_budget_inr": 6113,
+      "utilization": 1.02,
+      "mom_change_pct": 0.19
+    },
+    {
+      "month": "2025-10",
+      "budget_inr": 306000,
+      "actual_inr": 322707,
+      "over_budget_inr": 16707,
+      "utilization": 1.0546,
+      "mom_change_pct": 3.39
+    },
+    {
+      "month": "2025-11",
+      "budget_inr": 306000,
+      "actual_inr": 333669,
+      "over_budget_inr": 27669,
+      "utilization": 1.0904,
+      "mom_change_pct": 3.4
+    },
+    {
+      "month": "2025-12",
+      "budget_inr": 306000,
+      "actual_inr": 330508,
+      "over_budget_inr": 24508,
+      "utilization": 1.0801,
+      "mom_change_pct": -0.95
+    }
+  ],
+  "category_summary": [
+    {
+      "category": "Salaries",
+      "budget_inr": 2160000,
+      "actual_inr": 2160000,
+      "over_budget_inr": 0,
+      "utilization": 1.0,
+      "spend_share_pct": 57.15
+    },
+    {
+      "category": "Rent",
+      "budget_inr": 480000,
+      "actual_inr": 480000,
+      "over_budget_inr": 0,
+      "utilization": 1.0,
+      "spend_share_pct": 12.7
+    },
+    {
+      "category": "Marketing",
+      "budget_inr": 300000,
+      "actual_inr": 332469,
+      "over_budget_inr": 32469,
+      "utilization": 1.1082,
+      "spend_share_pct": 8.8
+    },
+    {
+      "category": "Travel",
+      "budget_inr": 240000,
+      "actual_inr": 274303,
+      "over_budget_inr": 34303,
+      "utilization": 1.1429,
+      "spend_share_pct": 7.26
+    },
+    {
+      "category": "Software",
+      "budget_inr": 180000,
+      "actual_inr": 212400,
+      "over_budget_inr": 32400,
+      "utilization": 1.18,
+      "spend_share_pct": 5.62
+    },
+    {
+      "category": "Utilities",
+      "budget_inr": 144000,
+      "actual_inr": 147243,
+      "over_budget_inr": 3243,
+      "utilization": 1.0225,
+      "spend_share_pct": 3.9
+    },
+    {
+      "category": "Meals",
+      "budget_inr": 96000,
+      "actual_inr": 97130,
+      "over_budget_inr": 1130,
+      "utilization": 1.0118,
+      "spend_share_pct": 2.57
+    },
+    {
+      "category": "Office supplies",
+      "budget_inr": 72000,
+      "actual_inr": 75864,
+      "over_budget_inr": 3864,
+      "utilization": 1.0537,
+      "spend_share_pct": 2.01
+    }
+  ],
+  "overspending_months": [
+    {
+      "month": "2025-06",
+      "category": "Travel",
+      "budget_inr": 20000,
+      "actual_inr": 33000,
+      "over_budget_inr": 13000,
+      "utilization": 1.65
+    },
+    {
+      "month": "2025-11",
+      "category": "Travel",
+      "budget_inr": 20000,
+      "actual_inr": 33000,
+      "over_budget_inr": 13000,
+      "utilization": 1.65
+    },
+    {
+      "month": "2025-12",
+      "category": "Travel",
+      "budget_inr": 20000,
+      "actual_inr": 33000,
+      "over_budget_inr": 13000,
+      "utilization": 1.65
+    },
+    {
+      "month": "2025-10",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 33750,
+      "over_budget_inr": 8750,
+      "utilization": 1.35
+    },
+    {
+      "month": "2025-11",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 33750,
+      "over_budget_inr": 8750,
+      "utilization": 1.35
+    },
+    {
+      "month": "2025-12",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 33750,
+      "over_budget_inr": 8750,
+      "utilization": 1.35
+    },
+    {
+      "month": "2025-04",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 29569,
+      "over_budget_inr": 4569,
+      "utilization": 1.18276
+    },
+    {
+      "month": "2025-05",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 28536,
+      "over_budget_inr": 3536,
+      "utilization": 1.14144
+    },
+    {
+      "month": "2025-04",
+      "category": "Travel",
+      "budget_inr": 20000,
+      "actual_inr": 23127,
+      "over_budget_inr": 3127,
+      "utilization": 1.15635
+    },
+    {
+      "month": "2025-07",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 27864,
+      "over_budget_inr": 2864,
+      "utilization": 1.11456
+    },
+    {
+      "month": "2025-01",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-02",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-03",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-04",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-05",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-06",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-07",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-08",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-09",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-10",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-11",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-12",
+      "category": "Software",
+      "budget_inr": 15000,
+      "actual_inr": 17700,
+      "over_budget_inr": 2700,
+      "utilization": 1.18
+    },
+    {
+      "month": "2025-10",
+      "category": "Utilities",
+      "budget_inr": 12000,
+      "actual_inr": 14570,
+      "over_budget_inr": 2570,
+      "utilization": 1.2141666666666666
+    },
+    {
+      "month": "2025-05",
+      "category": "Utilities",
+      "budget_inr": 12000,
+      "actual_inr": 14413,
+      "over_budget_inr": 2413,
+      "utilization": 1.2010833333333333
+    },
+    {
+      "month": "2025-11",
+      "category": "Utilities",
+      "budget_inr": 12000,
+      "actual_inr": 14335,
+      "over_budget_inr": 2335,
+      "utilization": 1.1945833333333333
+    },
+    {
+      "month": "2025-09",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 26905,
+      "over_budget_inr": 1905,
+      "utilization": 1.0762
+    },
+    {
+      "month": "2025-02",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 26662,
+      "over_budget_inr": 1662,
+      "utilization": 1.06648
+    },
+    {
+      "month": "2025-06",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 9564,
+      "over_budget_inr": 1564,
+      "utilization": 1.1955
+    },
+    {
+      "month": "2025-08",
+      "category": "Utilities",
+      "budget_inr": 12000,
+      "actual_inr": 13443,
+      "over_budget_inr": 1443,
+      "utilization": 1.12025
+    },
+    {
+      "month": "2025-04",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 7276,
+      "over_budget_inr": 1276,
+      "utilization": 1.2126666666666666
+    },
+    {
+      "month": "2025-08",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 7236,
+      "over_budget_inr": 1236,
+      "utilization": 1.206
+    },
+    {
+      "month": "2025-10",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 7215,
+      "over_budget_inr": 1215,
+      "utilization": 1.2025
+    },
+    {
+      "month": "2025-10",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 9152,
+      "over_budget_inr": 1152,
+      "utilization": 1.144
+    },
+    {
+      "month": "2025-11",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 9120,
+      "over_budget_inr": 1120,
+      "utilization": 1.14
+    },
+    {
+      "month": "2025-12",
+      "category": "Utilities",
+      "budget_inr": 12000,
+      "actual_inr": 13115,
+      "over_budget_inr": 1115,
+      "utilization": 1.0929166666666668
+    },
+    {
+      "month": "2025-09",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 9086,
+      "over_budget_inr": 1086,
+      "utilization": 1.13575
+    },
+    {
+      "month": "2025-09",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 7003,
+      "over_budget_inr": 1003,
+      "utilization": 1.1671666666666667
+    },
+    {
+      "month": "2025-01",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 6770,
+      "over_budget_inr": 770,
+      "utilization": 1.1283333333333334
+    },
+    {
+      "month": "2025-06",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 6707,
+      "over_budget_inr": 707,
+      "utilization": 1.1178333333333332
+    },
+    {
+      "month": "2025-08",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 8528,
+      "over_budget_inr": 528,
+      "utilization": 1.066
+    },
+    {
+      "month": "2025-05",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 6512,
+      "over_budget_inr": 512,
+      "utilization": 1.0853333333333333
+    },
+    {
+      "month": "2025-10",
+      "category": "Travel",
+      "budget_inr": 20000,
+      "actual_inr": 20320,
+      "over_budget_inr": 320,
+      "utilization": 1.016
+    },
+    {
+      "month": "2025-07",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 8217,
+      "over_budget_inr": 217,
+      "utilization": 1.027125
+    },
+    {
+      "month": "2025-07",
+      "category": "Travel",
+      "budget_inr": 20000,
+      "actual_inr": 20203,
+      "over_budget_inr": 203,
+      "utilization": 1.01015
+    },
+    {
+      "month": "2025-08",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 25203,
+      "over_budget_inr": 203,
+      "utilization": 1.00812
+    },
+    {
+      "month": "2025-05",
+      "category": "Meals",
+      "budget_inr": 8000,
+      "actual_inr": 8096,
+      "over_budget_inr": 96,
+      "utilization": 1.012
+    },
+    {
+      "month": "2025-01",
+      "category": "Marketing",
+      "budget_inr": 25000,
+      "actual_inr": 25083,
+      "over_budget_inr": 83,
+      "utilization": 1.00332
+    },
+    {
+      "month": "2025-03",
+      "category": "Office supplies",
+      "budget_inr": 6000,
+      "actual_inr": 6032,
+      "over_budget_inr": 32,
+      "utilization": 1.0053333333333334
+    },
+    {
+      "month": "2025-06",
+      "category": "Utilities",
+      "budget_inr": 12000,
+      "actual_inr": 12012,
+      "over_budget_inr": 12,
+      "utilization": 1.001
+    }
+  ],
+  "vendor_ranking": [
+    {
+      "category": "Salaries",
+      "vendor": "Salaries vendor 2",
+      "transactions": 24,
+      "total_inr": 735778,
+      "category_rank": 1
+    },
+    {
+      "category": "Salaries",
+      "vendor": "Salaries vendor 1",
+      "transactions": 24,
+      "total_inr": 732859,
+      "category_rank": 2
+    },
+    {
+      "category": "Salaries",
+      "vendor": "Salaries vendor 3",
+      "transactions": 24,
+      "total_inr": 691363,
+      "category_rank": 3
+    },
+    {
+      "category": "Rent",
+      "vendor": "Rent vendor 1",
+      "transactions": 12,
+      "total_inr": 480000,
+      "category_rank": 1
+    },
+    {
+      "category": "Marketing",
+      "vendor": "Marketing vendor 1",
+      "transactions": 48,
+      "total_inr": 130430,
+      "category_rank": 1
+    },
+    {
+      "category": "Travel",
+      "vendor": "Travel vendor 1",
+      "transactions": 48,
+      "total_inr": 113969,
+      "category_rank": 1
+    },
+    {
+      "category": "Marketing",
+      "vendor": "Marketing vendor 2",
+      "transactions": 36,
+      "total_inr": 107846,
+      "category_rank": 2
+    },
+    {
+      "category": "Marketing",
+      "vendor": "Marketing vendor 3",
+      "transactions": 36,
+      "total_inr": 94193,
+      "category_rank": 3
+    },
+    {
+      "category": "Software",
+      "vendor": "Software vendor 2",
+      "transactions": 24,
+      "total_inr": 86992,
+      "category_rank": 1
+    },
+    {
+      "category": "Software",
+      "vendor": "Software vendor 1",
+      "transactions": 24,
+      "total_inr": 86607,
+      "category_rank": 2
+    },
+    {
+      "category": "Travel",
+      "vendor": "Travel vendor 2",
+      "transactions": 36,
+      "total_inr": 80562,
+      "category_rank": 2
+    },
+    {
+      "category": "Travel",
+      "vendor": "Travel vendor 3",
+      "transactions": 36,
+      "total_inr": 79772,
+      "category_rank": 3
+    },
+    {
+      "category": "Utilities",
+      "vendor": "Utilities vendor 1",
+      "transactions": 24,
+      "total_inr": 74674,
+      "category_rank": 1
+    },
+    {
+      "category": "Software",
+      "vendor": "Software vendor 3",
+      "transactions": 12,
+      "total_inr": 38801,
+      "category_rank": 3
+    },
+    {
+      "category": "Utilities",
+      "vendor": "Utilities vendor 2",
+      "transactions": 12,
+      "total_inr": 37336,
+      "category_rank": 2
+    },
+    {
+      "category": "Meals",
+      "vendor": "Meals vendor 1",
+      "transactions": 72,
+      "total_inr": 36774,
+      "category_rank": 1
+    },
+    {
+      "category": "Utilities",
+      "vendor": "Utilities vendor 3",
+      "transactions": 12,
+      "total_inr": 35233,
+      "category_rank": 3
+    },
+    {
+      "category": "Meals",
+      "vendor": "Meals vendor 3",
+      "transactions": 60,
+      "total_inr": 30276,
+      "category_rank": 2
+    },
+    {
+      "category": "Meals",
+      "vendor": "Meals vendor 2",
+      "transactions": 60,
+      "total_inr": 30080,
+      "category_rank": 3
+    },
+    {
+      "category": "Office supplies",
+      "vendor": "Office supplies vendor 2",
+      "transactions": 36,
+      "total_inr": 28768,
+      "category_rank": 1
+    },
+    {
+      "category": "Office supplies",
+      "vendor": "Office supplies vendor 1",
+      "transactions": 36,
+      "total_inr": 25937,
+      "category_rank": 2
+    },
+    {
+      "category": "Office supplies",
+      "vendor": "Office supplies vendor 3",
+      "transactions": 24,
+      "total_inr": 21159,
+      "category_rank": 3
+    }
+  ],
+  "savings_scenario": [
+    {
+      "category": "Marketing",
+      "actual_inr": 332469,
+      "reduction_rate": 0.1,
+      "potential_savings_inr": 33246.9
+    },
+    {
+      "category": "Travel",
+      "actual_inr": 274303,
+      "reduction_rate": 0.1,
+      "potential_savings_inr": 27430.3
+    },
+    {
+      "category": "Software",
+      "actual_inr": 212400,
+      "reduction_rate": 0.1,
+      "potential_savings_inr": 21240.0
+    },
+    {
+      "category": "Meals",
+      "actual_inr": 97130,
+      "reduction_rate": 0.1,
+      "potential_savings_inr": 9713.0
+    },
+    {
+      "category": "Office supplies",
+      "actual_inr": 75864,
+      "reduction_rate": 0.1,
+      "potential_savings_inr": 7586.4
+    }
+  ]
+}

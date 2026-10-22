@@ -1,0 +1,721 @@
+expense_id,expense_date,category,vendor,amount_inr
+EXP00001,2025-01-01,Rent,Rent vendor 1,40000
+EXP00005,2025-01-01,Salaries,Salaries vendor 1,19666
+EXP00004,2025-01-02,Salaries,Salaries vendor 3,20875
+EXP00025,2025-01-02,Travel,Travel vendor 3,1471
+EXP00039,2025-01-02,Meals,Meals vendor 1,540
+EXP00042,2025-01-02,Meals,Meals vendor 1,323
+EXP00006,2025-01-03,Salaries,Salaries vendor 2,40497
+EXP00024,2025-01-03,Travel,Travel vendor 2,1228
+EXP00056,2025-01-03,Marketing,Marketing vendor 3,1522
+EXP00016,2025-01-04,Software,Software vendor 2,2759
+EXP00045,2025-01-05,Office supplies,Office supplies vendor 3,1158
+EXP00047,2025-01-05,Office supplies,Office supplies vendor 2,998
+EXP00051,2025-01-06,Marketing,Marketing vendor 1,2973
+EXP00007,2025-01-07,Salaries,Salaries vendor 3,34122
+EXP00012,2025-01-07,Software,Software vendor 1,4859
+EXP00022,2025-01-07,Travel,Travel vendor 3,1449
+EXP00009,2025-01-08,Utilities,Utilities vendor 2,2389
+EXP00033,2025-01-08,Meals,Meals vendor 1,421
+EXP00040,2025-01-08,Meals,Meals vendor 2,327
+EXP00048,2025-01-08,Office supplies,Office supplies vendor 3,584
+EXP00028,2025-01-09,Meals,Meals vendor 2,282
+EXP00046,2025-01-09,Office supplies,Office supplies vendor 1,874
+EXP00015,2025-01-11,Software,Software vendor 1,3274
+EXP00035,2025-01-11,Meals,Meals vendor 3,345
+EXP00020,2025-01-12,Travel,Travel vendor 1,1827
+EXP00027,2025-01-13,Meals,Meals vendor 1,384
+EXP00057,2025-01-13,Marketing,Marketing vendor 1,2369
+EXP00058,2025-01-13,Marketing,Marketing vendor 2,2994
+EXP00003,2025-01-14,Salaries,Salaries vendor 2,24314
+EXP00008,2025-01-14,Utilities,Utilities vendor 1,2481
+EXP00054,2025-01-14,Marketing,Marketing vendor 1,2055
+EXP00010,2025-01-15,Utilities,Utilities vendor 3,2738
+EXP00044,2025-01-15,Office supplies,Office supplies vendor 2,464
+EXP00060,2025-01-15,Marketing,Marketing vendor 1,1557
+EXP00032,2025-01-18,Meals,Meals vendor 3,553
+EXP00050,2025-01-18,Office supplies,Office supplies vendor 2,1135
+EXP00002,2025-01-19,Salaries,Salaries vendor 1,40526
+EXP00011,2025-01-19,Utilities,Utilities vendor 1,2704
+EXP00021,2025-01-19,Travel,Travel vendor 2,1719
+EXP00017,2025-01-20,Travel,Travel vendor 1,834
+EXP00055,2025-01-20,Marketing,Marketing vendor 2,3570
+EXP00059,2025-01-20,Marketing,Marketing vendor 3,3245
+EXP00030,2025-01-21,Meals,Meals vendor 1,293
+EXP00043,2025-01-21,Office supplies,Office supplies vendor 1,738
+EXP00026,2025-01-22,Travel,Travel vendor 1,1858
+EXP00034,2025-01-22,Meals,Meals vendor 2,424
+EXP00053,2025-01-22,Marketing,Marketing vendor 3,2584
+EXP00023,2025-01-23,Travel,Travel vendor 1,2059
+EXP00031,2025-01-23,Meals,Meals vendor 2,379
+EXP00049,2025-01-24,Office supplies,Office supplies vendor 1,819
+EXP00014,2025-01-25,Software,Software vendor 3,2341
+EXP00037,2025-01-25,Meals,Meals vendor 2,699
+EXP00038,2025-01-25,Meals,Meals vendor 3,559
+EXP00052,2025-01-26,Marketing,Marketing vendor 2,2214
+EXP00036,2025-01-27,Meals,Meals vendor 1,373
+EXP00041,2025-01-27,Meals,Meals vendor 3,598
+EXP00019,2025-01-28,Travel,Travel vendor 3,1543
+EXP00018,2025-01-29,Travel,Travel vendor 2,1884
+EXP00029,2025-01-30,Meals,Meals vendor 3,357
+EXP00013,2025-01-31,Software,Software vendor 2,4467
+EXP00074,2025-02-01,Software,Software vendor 3,2699
+EXP00087,2025-02-01,Meals,Meals vendor 1,522
+EXP00091,2025-02-02,Meals,Meals vendor 2,561
+EXP00094,2025-02-02,Meals,Meals vendor 2,553
+EXP00110,2025-02-02,Office supplies,Office supplies vendor 2,381
+EXP00120,2025-02-02,Marketing,Marketing vendor 1,2239
+EXP00088,2025-02-03,Meals,Meals vendor 2,691
+EXP00093,2025-02-03,Meals,Meals vendor 1,424
+EXP00097,2025-02-03,Meals,Meals vendor 2,449
+EXP00113,2025-02-03,Marketing,Marketing vendor 3,2595
+EXP00064,2025-02-04,Salaries,Salaries vendor 3,36149
+EXP00070,2025-02-04,Utilities,Utilities vendor 3,1921
+EXP00119,2025-02-04,Marketing,Marketing vendor 3,2650
+EXP00080,2025-02-05,Travel,Travel vendor 1,2575
+EXP00081,2025-02-05,Travel,Travel vendor 2,1457
+EXP00067,2025-02-06,Salaries,Salaries vendor 3,22708
+EXP00068,2025-02-06,Utilities,Utilities vendor 1,3658
+EXP00085,2025-02-06,Travel,Travel vendor 3,2428
+EXP00092,2025-02-08,Meals,Meals vendor 3,572
+EXP00099,2025-02-08,Meals,Meals vendor 1,266
+EXP00111,2025-02-08,Marketing,Marketing vendor 1,4267
+EXP00086,2025-02-09,Travel,Travel vendor 1,2594
+EXP00100,2025-02-09,Meals,Meals vendor 2,246
+EXP00065,2025-02-10,Salaries,Salaries vendor 1,34994
+EXP00063,2025-02-11,Salaries,Salaries vendor 2,15146
+EXP00076,2025-02-11,Software,Software vendor 2,2554
+EXP00096,2025-02-11,Meals,Meals vendor 1,660
+EXP00104,2025-02-12,Office supplies,Office supplies vendor 2,917
+EXP00066,2025-02-14,Salaries,Salaries vendor 2,30707
+EXP00103,2025-02-14,Office supplies,Office supplies vendor 1,404
+EXP00105,2025-02-14,Office supplies,Office supplies vendor 3,684
+EXP00106,2025-02-14,Office supplies,Office supplies vendor 1,621
+EXP00107,2025-02-15,Office supplies,Office supplies vendor 2,821
+EXP00114,2025-02-15,Marketing,Marketing vendor 1,2413
+EXP00083,2025-02-16,Travel,Travel vendor 1,2104
+EXP00102,2025-02-16,Meals,Meals vendor 1,512
+EXP00069,2025-02-17,Utilities,Utilities vendor 2,3462
+EXP00073,2025-02-17,Software,Software vendor 2,3891
+EXP00098,2025-02-17,Meals,Meals vendor 3,353
+EXP00061,2025-02-18,Rent,Rent vendor 1,40000
+EXP00078,2025-02-18,Travel,Travel vendor 2,1701
+EXP00084,2025-02-18,Travel,Travel vendor 2,1141
+EXP00118,2025-02-18,Marketing,Marketing vendor 2,2727
+EXP00075,2025-02-20,Software,Software vendor 1,3375
+EXP00062,2025-02-21,Salaries,Salaries vendor 1,40296
+EXP00090,2025-02-21,Meals,Meals vendor 1,592
+EXP00082,2025-02-22,Travel,Travel vendor 3,1460
+EXP00101,2025-02-22,Meals,Meals vendor 3,497
+EXP00089,2025-02-23,Meals,Meals vendor 3,674
+EXP00109,2025-02-24,Office supplies,Office supplies vendor 1,441
+EXP00072,2025-02-25,Software,Software vendor 1,5181
+EXP00077,2025-02-25,Travel,Travel vendor 1,1206
+EXP00079,2025-02-25,Travel,Travel vendor 3,2927
+EXP00115,2025-02-26,Marketing,Marketing vendor 2,3915
+EXP00071,2025-02-28,Utilities,Utilities vendor 1,2518
+EXP00095,2025-02-28,Meals,Meals vendor 3,412
+EXP00108,2025-02-28,Office supplies,Office supplies vendor 3,835
+EXP00112,2025-02-28,Marketing,Marketing vendor 2,1720
+EXP00116,2025-02-28,Marketing,Marketing vendor 3,2152
+EXP00117,2025-02-28,Marketing,Marketing vendor 1,1984
+EXP00174,2025-03-01,Marketing,Marketing vendor 1,2512
+EXP00126,2025-03-02,Salaries,Salaries vendor 2,16584
+EXP00135,2025-03-02,Software,Software vendor 1,2715
+EXP00145,2025-03-02,Travel,Travel vendor 3,1085
+EXP00173,2025-03-02,Marketing,Marketing vendor 3,1783
+EXP00155,2025-03-03,Meals,Meals vendor 3,468
+EXP00138,2025-03-04,Travel,Travel vendor 2,1867
+EXP00166,2025-03-04,Office supplies,Office supplies vendor 1,699
+EXP00168,2025-03-04,Office supplies,Office supplies vendor 3,716
+EXP00151,2025-03-05,Meals,Meals vendor 2,478
+EXP00164,2025-03-05,Office supplies,Office supplies vendor 2,1008
+EXP00177,2025-03-05,Marketing,Marketing vendor 1,1589
+EXP00127,2025-03-06,Salaries,Salaries vendor 3,24532
+EXP00160,2025-03-06,Meals,Meals vendor 2,458
+EXP00180,2025-03-06,Marketing,Marketing vendor 1,2402
+EXP00122,2025-03-07,Salaries,Salaries vendor 1,33253
+EXP00148,2025-03-07,Meals,Meals vendor 2,435
+EXP00142,2025-03-08,Travel,Travel vendor 3,1926
+EXP00157,2025-03-08,Meals,Meals vendor 2,584
+EXP00150,2025-03-09,Meals,Meals vendor 1,311
+EXP00165,2025-03-09,Office supplies,Office supplies vendor 3,888
+EXP00172,2025-03-09,Marketing,Marketing vendor 2,1504
+EXP00179,2025-03-09,Marketing,Marketing vendor 3,1165
+EXP00159,2025-03-10,Meals,Meals vendor 1,208
+EXP00175,2025-03-11,Marketing,Marketing vendor 2,2862
+EXP00153,2025-03-12,Meals,Meals vendor 1,313
+EXP00158,2025-03-12,Meals,Meals vendor 3,587
+EXP00124,2025-03-13,Salaries,Salaries vendor 3,35501
+EXP00137,2025-03-13,Travel,Travel vendor 1,1051
+EXP00128,2025-03-14,Utilities,Utilities vendor 1,3684
+EXP00161,2025-03-15,Meals,Meals vendor 3,434
+EXP00149,2025-03-17,Meals,Meals vendor 3,334
+EXP00121,2025-03-18,Rent,Rent vendor 1,40000
+EXP00134,2025-03-18,Software,Software vendor 3,2231
+EXP00147,2025-03-18,Meals,Meals vendor 1,473
+EXP00170,2025-03-18,Office supplies,Office supplies vendor 2,410
+EXP00132,2025-03-19,Software,Software vendor 1,3598
+EXP00141,2025-03-19,Travel,Travel vendor 2,1064
+EXP00143,2025-03-19,Travel,Travel vendor 1,2582
+EXP00144,2025-03-20,Travel,Travel vendor 2,1086
+EXP00146,2025-03-20,Travel,Travel vendor 1,2604
+EXP00178,2025-03-21,Marketing,Marketing vendor 2,2979
+EXP00129,2025-03-23,Utilities,Utilities vendor 2,1898
+EXP00131,2025-03-24,Utilities,Utilities vendor 1,2370
+EXP00133,2025-03-24,Software,Software vendor 2,4152
+EXP00136,2025-03-24,Software,Software vendor 2,5004
+EXP00169,2025-03-24,Office supplies,Office supplies vendor 1,973
+EXP00176,2025-03-25,Marketing,Marketing vendor 3,2127
+EXP00162,2025-03-27,Meals,Meals vendor 1,243
+EXP00171,2025-03-27,Marketing,Marketing vendor 1,1654
+EXP00123,2025-03-28,Salaries,Salaries vendor 2,36562
+EXP00125,2025-03-29,Salaries,Salaries vendor 1,33568
+EXP00140,2025-03-29,Travel,Travel vendor 1,1971
+EXP00154,2025-03-29,Meals,Meals vendor 2,258
+EXP00156,2025-03-29,Meals,Meals vendor 1,391
+EXP00163,2025-03-29,Office supplies,Office supplies vendor 1,545
+EXP00167,2025-03-29,Office supplies,Office supplies vendor 2,793
+EXP00152,2025-03-30,Meals,Meals vendor 3,333
+EXP00130,2025-03-31,Utilities,Utilities vendor 3,3185
+EXP00139,2025-03-31,Travel,Travel vendor 3,2712
+EXP00182,2025-04-02,Salaries,Salaries vendor 1,35210
+EXP00188,2025-04-02,Utilities,Utilities vendor 1,1436
+EXP00204,2025-04-02,Travel,Travel vendor 2,2475
+EXP00213,2025-04-02,Meals,Meals vendor 1,283
+EXP00229,2025-04-03,Office supplies,Office supplies vendor 1,1235
+EXP00201,2025-04-04,Travel,Travel vendor 2,2350
+EXP00207,2025-04-04,Meals,Meals vendor 1,537
+EXP00214,2025-04-04,Meals,Meals vendor 2,338
+EXP00187,2025-04-05,Salaries,Salaries vendor 3,18955
+EXP00193,2025-04-05,Software,Software vendor 2,2548
+EXP00198,2025-04-06,Travel,Travel vendor 2,2491
+EXP00210,2025-04-06,Meals,Meals vendor 1,528
+EXP00236,2025-04-06,Marketing,Marketing vendor 3,3365
+EXP00191,2025-04-07,Utilities,Utilities vendor 1,3900
+EXP00226,2025-04-07,Office supplies,Office supplies vendor 1,514
+EXP00196,2025-04-08,Software,Software vendor 2,4400
+EXP00197,2025-04-09,Travel,Travel vendor 1,2805
+EXP00209,2025-04-09,Meals,Meals vendor 3,328
+EXP00212,2025-04-09,Meals,Meals vendor 3,214
+EXP00239,2025-04-10,Marketing,Marketing vendor 3,3040
+EXP00220,2025-04-11,Meals,Meals vendor 2,604
+EXP00184,2025-04-12,Salaries,Salaries vendor 3,17869
+EXP00190,2025-04-12,Utilities,Utilities vendor 3,3797
+EXP00217,2025-04-12,Meals,Meals vendor 2,318
+EXP00227,2025-04-12,Office supplies,Office supplies vendor 2,885
+EXP00202,2025-04-13,Travel,Travel vendor 3,1581
+EXP00232,2025-04-13,Marketing,Marketing vendor 2,3355
+EXP00240,2025-04-13,Marketing,Marketing vendor 1,1994
+EXP00216,2025-04-14,Meals,Meals vendor 1,598
+EXP00221,2025-04-14,Meals,Meals vendor 3,423
+EXP00228,2025-04-14,Office supplies,Office supplies vendor 3,964
+EXP00206,2025-04-16,Travel,Travel vendor 1,2492
+EXP00181,2025-04-18,Rent,Rent vendor 1,40000
+EXP00186,2025-04-18,Salaries,Salaries vendor 2,34782
+EXP00185,2025-04-19,Salaries,Salaries vendor 1,42201
+EXP00211,2025-04-19,Meals,Meals vendor 2,297
+EXP00238,2025-04-19,Marketing,Marketing vendor 2,3452
+EXP00215,2025-04-20,Meals,Meals vendor 3,557
+EXP00222,2025-04-20,Meals,Meals vendor 1,586
+EXP00237,2025-04-20,Marketing,Marketing vendor 1,2382
+EXP00225,2025-04-22,Office supplies,Office supplies vendor 3,652
+EXP00230,2025-04-22,Office supplies,Office supplies vendor 2,1121
+EXP00231,2025-04-22,Marketing,Marketing vendor 1,3239
+EXP00233,2025-04-22,Marketing,Marketing vendor 3,1801
+EXP00200,2025-04-23,Travel,Travel vendor 1,997
+EXP00192,2025-04-24,Software,Software vendor 1,3484
+EXP00218,2025-04-24,Meals,Meals vendor 3,466
+EXP00223,2025-04-24,Office supplies,Office supplies vendor 1,582
+EXP00224,2025-04-24,Office supplies,Office supplies vendor 2,1323
+EXP00234,2025-04-24,Marketing,Marketing vendor 1,4037
+EXP00199,2025-04-26,Travel,Travel vendor 3,2625
+EXP00219,2025-04-26,Meals,Meals vendor 1,367
+EXP00183,2025-04-27,Salaries,Salaries vendor 2,30983
+EXP00203,2025-04-28,Travel,Travel vendor 1,2719
+EXP00205,2025-04-28,Travel,Travel vendor 3,2592
+EXP00189,2025-04-29,Utilities,Utilities vendor 2,2291
+EXP00208,2025-04-29,Meals,Meals vendor 2,392
+EXP00235,2025-04-29,Marketing,Marketing vendor 2,2904
+EXP00194,2025-04-30,Software,Software vendor 3,3164
+EXP00195,2025-04-30,Software,Software vendor 1,4104
+EXP00241,2025-05-01,Rent,Rent vendor 1,40000
+EXP00266,2025-05-02,Travel,Travel vendor 1,2335
+EXP00289,2025-05-02,Office supplies,Office supplies vendor 1,660
+EXP00250,2025-05-03,Utilities,Utilities vendor 3,2601
+EXP00256,2025-05-03,Software,Software vendor 2,2390
+EXP00282,2025-05-03,Meals,Meals vendor 1,658
+EXP00260,2025-05-06,Travel,Travel vendor 1,1490
+EXP00243,2025-05-07,Salaries,Salaries vendor 2,22543
+EXP00290,2025-05-07,Office supplies,Office supplies vendor 2,720
+EXP00259,2025-05-08,Travel,Travel vendor 3,2054
+EXP00270,2025-05-08,Meals,Meals vendor 1,466
+EXP00279,2025-05-08,Meals,Meals vendor 1,680
+EXP00268,2025-05-09,Meals,Meals vendor 2,300
+EXP00273,2025-05-09,Meals,Meals vendor 1,395
+EXP00280,2025-05-09,Meals,Meals vendor 2,457
+EXP00249,2025-05-11,Utilities,Utilities vendor 2,3846
+EXP00285,2025-05-11,Office supplies,Office supplies vendor 3,1408
+EXP00258,2025-05-14,Travel,Travel vendor 2,1813
+EXP00283,2025-05-14,Office supplies,Office supplies vendor 1,742
+EXP00284,2025-05-14,Office supplies,Office supplies vendor 2,845
+EXP00288,2025-05-14,Office supplies,Office supplies vendor 3,892
+EXP00294,2025-05-14,Marketing,Marketing vendor 1,1387
+EXP00265,2025-05-15,Travel,Travel vendor 3,2293
+EXP00267,2025-05-15,Meals,Meals vendor 1,685
+EXP00281,2025-05-15,Meals,Meals vendor 3,319
+EXP00287,2025-05-15,Office supplies,Office supplies vendor 2,658
+EXP00245,2025-05-16,Salaries,Salaries vendor 1,35129
+EXP00252,2025-05-16,Software,Software vendor 1,3215
+EXP00277,2025-05-16,Meals,Meals vendor 2,673
+EXP00244,2025-05-17,Salaries,Salaries vendor 3,40814
+EXP00264,2025-05-17,Travel,Travel vendor 2,2348
+EXP00276,2025-05-17,Meals,Meals vendor 1,636
+EXP00286,2025-05-18,Office supplies,Office supplies vendor 1,587
+EXP00295,2025-05-18,Marketing,Marketing vendor 2,3686
+EXP00298,2025-05-18,Marketing,Marketing vendor 2,3851
+EXP00248,2025-05-20,Utilities,Utilities vendor 1,4102
+EXP00253,2025-05-20,Software,Software vendor 2,3546
+EXP00300,2025-05-20,Marketing,Marketing vendor 1,2376
+EXP00272,2025-05-21,Meals,Meals vendor 3,512
+EXP00278,2025-05-21,Meals,Meals vendor 3,448
+EXP00242,2025-05-22,Salaries,Salaries vendor 1,25518
+EXP00263,2025-05-23,Travel,Travel vendor 1,2002
+EXP00296,2025-05-24,Marketing,Marketing vendor 3,2872
+EXP00297,2025-05-24,Marketing,Marketing vendor 1,2608
+EXP00255,2025-05-25,Software,Software vendor 1,2832
+EXP00257,2025-05-25,Travel,Travel vendor 1,2337
+EXP00269,2025-05-25,Meals,Meals vendor 3,306
+EXP00274,2025-05-25,Meals,Meals vendor 2,607
+EXP00275,2025-05-25,Meals,Meals vendor 3,456
+EXP00246,2025-05-26,Salaries,Salaries vendor 2,26101
+EXP00261,2025-05-26,Travel,Travel vendor 2,1517
+EXP00299,2025-05-26,Marketing,Marketing vendor 3,2132
+EXP00251,2025-05-27,Utilities,Utilities vendor 1,3864
+EXP00271,2025-05-27,Meals,Meals vendor 2,498
+EXP00293,2025-05-27,Marketing,Marketing vendor 3,3860
+EXP00254,2025-05-28,Software,Software vendor 3,5717
+EXP00247,2025-05-29,Salaries,Salaries vendor 3,29895
+EXP00291,2025-05-29,Marketing,Marketing vendor 1,2374
+EXP00262,2025-05-31,Travel,Travel vendor 3,1092
+EXP00292,2025-05-31,Marketing,Marketing vendor 2,3390
+EXP00318,2025-06-01,Travel,Travel vendor 2,4688
+EXP00352,2025-06-03,Marketing,Marketing vendor 2,2191
+EXP00325,2025-06-04,Travel,Travel vendor 3,1993
+EXP00332,2025-06-04,Meals,Meals vendor 3,680
+EXP00340,2025-06-04,Meals,Meals vendor 2,488
+EXP00306,2025-06-05,Salaries,Salaries vendor 2,41585
+EXP00309,2025-06-05,Utilities,Utilities vendor 2,3089
+EXP00320,2025-06-05,Travel,Travel vendor 1,5450
+EXP00322,2025-06-05,Travel,Travel vendor 3,2134
+EXP00349,2025-06-05,Office supplies,Office supplies vendor 1,1141
+EXP00302,2025-06-06,Salaries,Salaries vendor 1,25372
+EXP00321,2025-06-08,Travel,Travel vendor 2,2718
+EXP00331,2025-06-08,Meals,Meals vendor 2,817
+EXP00356,2025-06-08,Marketing,Marketing vendor 3,1837
+EXP00312,2025-06-09,Software,Software vendor 1,2827
+EXP00316,2025-06-09,Software,Software vendor 2,5130
+EXP00353,2025-06-09,Marketing,Marketing vendor 3,2125
+EXP00335,2025-06-10,Meals,Meals vendor 3,453
+EXP00343,2025-06-12,Office supplies,Office supplies vendor 1,731
+EXP00308,2025-06-14,Utilities,Utilities vendor 1,3980
+EXP00315,2025-06-14,Software,Software vendor 1,3115
+EXP00350,2025-06-14,Office supplies,Office supplies vendor 2,524
+EXP00304,2025-06-15,Salaries,Salaries vendor 3,18657
+EXP00311,2025-06-15,Utilities,Utilities vendor 1,1653
+EXP00347,2025-06-15,Office supplies,Office supplies vendor 2,726
+EXP00355,2025-06-15,Marketing,Marketing vendor 2,2427
+EXP00358,2025-06-15,Marketing,Marketing vendor 2,2080
+EXP00301,2025-06-16,Rent,Rent vendor 1,40000
+EXP00323,2025-06-16,Travel,Travel vendor 1,5470
+EXP00326,2025-06-19,Travel,Travel vendor 1,2805
+EXP00327,2025-06-19,Meals,Meals vendor 1,539
+EXP00342,2025-06-19,Meals,Meals vendor 1,391
+EXP00359,2025-06-19,Marketing,Marketing vendor 3,1566
+EXP00307,2025-06-20,Salaries,Salaries vendor 3,31894
+EXP00319,2025-06-20,Travel,Travel vendor 3,2072
+EXP00338,2025-06-20,Meals,Meals vendor 3,600
+EXP00360,2025-06-20,Marketing,Marketing vendor 1,1420
+EXP00330,2025-06-21,Meals,Meals vendor 1,617
+EXP00344,2025-06-21,Office supplies,Office supplies vendor 2,801
+EXP00324,2025-06-22,Travel,Travel vendor 2,2028
+EXP00337,2025-06-22,Meals,Meals vendor 2,797
+EXP00328,2025-06-23,Meals,Meals vendor 2,422
+EXP00333,2025-06-23,Meals,Meals vendor 1,713
+EXP00348,2025-06-23,Office supplies,Office supplies vendor 3,1165
+EXP00313,2025-06-25,Software,Software vendor 2,3077
+EXP00334,2025-06-25,Meals,Meals vendor 2,370
+EXP00357,2025-06-25,Marketing,Marketing vendor 1,2525
+EXP00339,2025-06-26,Meals,Meals vendor 1,786
+EXP00341,2025-06-26,Meals,Meals vendor 3,804
+EXP00303,2025-06-27,Salaries,Salaries vendor 2,33004
+EXP00314,2025-06-27,Software,Software vendor 3,3551
+EXP00317,2025-06-27,Travel,Travel vendor 1,3642
+EXP00329,2025-06-27,Meals,Meals vendor 3,485
+EXP00346,2025-06-27,Office supplies,Office supplies vendor 1,868
+EXP00310,2025-06-28,Utilities,Utilities vendor 3,3290
+EXP00336,2025-06-28,Meals,Meals vendor 1,602
+EXP00345,2025-06-29,Office supplies,Office supplies vendor 3,751
+EXP00354,2025-06-29,Marketing,Marketing vendor 1,2703
+EXP00305,2025-06-30,Salaries,Salaries vendor 1,29488
+EXP00351,2025-06-30,Marketing,Marketing vendor 1,1946
+EXP00387,2025-07-01,Meals,Meals vendor 1,656
+EXP00396,2025-07-02,Meals,Meals vendor 1,284
+EXP00415,2025-07-03,Marketing,Marketing vendor 2,2574
+EXP00420,2025-07-03,Marketing,Marketing vendor 1,3499
+EXP00401,2025-07-04,Meals,Meals vendor 3,652
+EXP00380,2025-07-06,Travel,Travel vendor 1,1719
+EXP00394,2025-07-06,Meals,Meals vendor 2,628
+EXP00416,2025-07-06,Marketing,Marketing vendor 3,2961
+EXP00418,2025-07-06,Marketing,Marketing vendor 2,4046
+EXP00381,2025-07-07,Travel,Travel vendor 2,1924
+EXP00382,2025-07-07,Travel,Travel vendor 3,1627
+EXP00412,2025-07-07,Marketing,Marketing vendor 2,3903
+EXP00369,2025-07-08,Utilities,Utilities vendor 2,1250
+EXP00410,2025-07-08,Office supplies,Office supplies vendor 2,436
+EXP00417,2025-07-08,Marketing,Marketing vendor 1,1553
+EXP00366,2025-07-09,Salaries,Salaries vendor 2,43167
+EXP00385,2025-07-09,Travel,Travel vendor 3,1645
+EXP00397,2025-07-09,Meals,Meals vendor 2,289
+EXP00413,2025-07-09,Marketing,Marketing vendor 3,2210
+EXP00372,2025-07-10,Software,Software vendor 1,3661
+EXP00389,2025-07-10,Meals,Meals vendor 3,770
+EXP00361,2025-07-11,Rent,Rent vendor 1,40000
+EXP00393,2025-07-11,Meals,Meals vendor 1,417
+EXP00375,2025-07-12,Software,Software vendor 1,2666
+EXP00405,2025-07-14,Office supplies,Office supplies vendor 3,695
+EXP00392,2025-07-15,Meals,Meals vendor 3,448
+EXP00371,2025-07-16,Utilities,Utilities vendor 1,2111
+EXP00376,2025-07-16,Software,Software vendor 2,4405
+EXP00384,2025-07-16,Travel,Travel vendor 2,2464
+EXP00390,2025-07-16,Meals,Meals vendor 1,693
+EXP00391,2025-07-16,Meals,Meals vendor 2,414
+EXP00400,2025-07-16,Meals,Meals vendor 2,592
+EXP00367,2025-07-18,Salaries,Salaries vendor 3,27949
+EXP00403,2025-07-18,Office supplies,Office supplies vendor 1,581
+EXP00419,2025-07-18,Marketing,Marketing vendor 3,1661
+EXP00374,2025-07-19,Software,Software vendor 3,2191
+EXP00388,2025-07-19,Meals,Meals vendor 2,571
+EXP00363,2025-07-20,Salaries,Salaries vendor 2,44934
+EXP00406,2025-07-20,Office supplies,Office supplies vendor 1,382
+EXP00407,2025-07-20,Office supplies,Office supplies vendor 2,768
+EXP00409,2025-07-20,Office supplies,Office supplies vendor 1,343
+EXP00411,2025-07-21,Marketing,Marketing vendor 1,2440
+EXP00373,2025-07-22,Software,Software vendor 2,4777
+EXP00414,2025-07-22,Marketing,Marketing vendor 1,3017
+EXP00364,2025-07-23,Salaries,Salaries vendor 3,22679
+EXP00370,2025-07-23,Utilities,Utilities vendor 3,2605
+EXP00379,2025-07-23,Travel,Travel vendor 3,2119
+EXP00383,2025-07-24,Travel,Travel vendor 1,1474
+EXP00386,2025-07-24,Travel,Travel vendor 1,2509
+EXP00368,2025-07-25,Utilities,Utilities vendor 1,3091
+EXP00378,2025-07-25,Travel,Travel vendor 2,3020
+EXP00404,2025-07-25,Office supplies,Office supplies vendor 2,631
+EXP00408,2025-07-26,Office supplies,Office supplies vendor 3,848
+EXP00402,2025-07-27,Meals,Meals vendor 1,314
+EXP00399,2025-07-28,Meals,Meals vendor 1,751
+EXP00362,2025-07-29,Salaries,Salaries vendor 1,17585
+EXP00365,2025-07-29,Salaries,Salaries vendor 1,23686
+EXP00377,2025-07-31,Travel,Travel vendor 1,1702
+EXP00395,2025-07-31,Meals,Meals vendor 3,326
+EXP00398,2025-07-31,Meals,Meals vendor 3,412
+EXP00445,2025-08-01,Travel,Travel vendor 3,2184
+EXP00456,2025-08-02,Meals,Meals vendor 1,541
+EXP00468,2025-08-02,Office supplies,Office supplies vendor 3,819
+EXP00423,2025-08-03,Salaries,Salaries vendor 2,32941
+EXP00458,2025-08-03,Meals,Meals vendor 3,463
+EXP00471,2025-08-03,Marketing,Marketing vendor 1,3504
+EXP00436,2025-08-04,Software,Software vendor 2,4784
+EXP00462,2025-08-04,Meals,Meals vendor 1,451
+EXP00475,2025-08-04,Marketing,Marketing vendor 2,3616
+EXP00478,2025-08-04,Marketing,Marketing vendor 2,1616
+EXP00431,2025-08-05,Utilities,Utilities vendor 1,2677
+EXP00469,2025-08-07,Office supplies,Office supplies vendor 1,617
+EXP00425,2025-08-08,Salaries,Salaries vendor 1,22029
+EXP00429,2025-08-08,Utilities,Utilities vendor 2,3361
+EXP00437,2025-08-08,Travel,Travel vendor 1,1591
+EXP00472,2025-08-08,Marketing,Marketing vendor 2,2303
+EXP00427,2025-08-09,Salaries,Salaries vendor 3,36228
+EXP00460,2025-08-09,Meals,Meals vendor 2,639
+EXP00470,2025-08-09,Office supplies,Office supplies vendor 2,772
+EXP00434,2025-08-10,Software,Software vendor 3,2551
+EXP00449,2025-08-10,Meals,Meals vendor 3,686
+EXP00459,2025-08-11,Meals,Meals vendor 1,455
+EXP00461,2025-08-11,Meals,Meals vendor 3,741
+EXP00452,2025-08-13,Meals,Meals vendor 3,773
+EXP00421,2025-08-14,Rent,Rent vendor 1,40000
+EXP00422,2025-08-15,Salaries,Salaries vendor 1,28625
+EXP00435,2025-08-15,Software,Software vendor 1,3094
+EXP00457,2025-08-15,Meals,Meals vendor 2,323
+EXP00466,2025-08-15,Office supplies,Office supplies vendor 1,1038
+EXP00476,2025-08-15,Marketing,Marketing vendor 3,2722
+EXP00448,2025-08-16,Meals,Meals vendor 2,295
+EXP00464,2025-08-16,Office supplies,Office supplies vendor 2,910
+EXP00428,2025-08-18,Utilities,Utilities vendor 1,3256
+EXP00455,2025-08-18,Meals,Meals vendor 3,619
+EXP00432,2025-08-19,Software,Software vendor 1,5082
+EXP00442,2025-08-19,Travel,Travel vendor 3,2173
+EXP00443,2025-08-19,Travel,Travel vendor 1,2749
+EXP00430,2025-08-21,Utilities,Utilities vendor 3,4149
+EXP00465,2025-08-21,Office supplies,Office supplies vendor 3,1334
+EXP00479,2025-08-21,Marketing,Marketing vendor 3,2579
+EXP00424,2025-08-22,Salaries,Salaries vendor 3,23829
+EXP00439,2025-08-22,Travel,Travel vendor 3,1528
+EXP00450,2025-08-22,Meals,Meals vendor 1,530
+EXP00447,2025-08-23,Meals,Meals vendor 1,420
+EXP00446,2025-08-25,Travel,Travel vendor 1,1039
+EXP00454,2025-08-25,Meals,Meals vendor 2,592
+EXP00463,2025-08-25,Office supplies,Office supplies vendor 1,811
+EXP00467,2025-08-25,Office supplies,Office supplies vendor 2,935
+EXP00440,2025-08-27,Travel,Travel vendor 1,2058
+EXP00453,2025-08-27,Meals,Meals vendor 1,372
+EXP00473,2025-08-27,Marketing,Marketing vendor 3,2941
+EXP00480,2025-08-27,Marketing,Marketing vendor 1,2582
+EXP00441,2025-08-28,Travel,Travel vendor 2,1855
+EXP00426,2025-08-30,Salaries,Salaries vendor 2,36348
+EXP00433,2025-08-30,Software,Software vendor 2,2189
+EXP00474,2025-08-30,Marketing,Marketing vendor 1,1525
+EXP00438,2025-08-31,Travel,Travel vendor 2,1786
+EXP00444,2025-08-31,Travel,Travel vendor 2,2443
+EXP00451,2025-08-31,Meals,Meals vendor 2,628
+EXP00477,2025-08-31,Marketing,Marketing vendor 1,1815
+EXP00512,2025-09-03,Meals,Meals vendor 3,726
+EXP00531,2025-09-03,Marketing,Marketing vendor 1,3925
+EXP00523,2025-09-04,Office supplies,Office supplies vendor 1,965
+EXP00528,2025-09-04,Office supplies,Office supplies vendor 3,769
+EXP00483,2025-09-05,Salaries,Salaries vendor 2,27693
+EXP00494,2025-09-05,Software,Software vendor 3,2576
+EXP00530,2025-09-06,Office supplies,Office supplies vendor 2,576
+EXP00485,2025-09-07,Salaries,Salaries vendor 1,36637
+EXP00537,2025-09-08,Marketing,Marketing vendor 1,2884
+EXP00489,2025-09-11,Utilities,Utilities vendor 2,3365
+EXP00497,2025-09-11,Travel,Travel vendor 1,1461
+EXP00507,2025-09-11,Meals,Meals vendor 1,784
+EXP00514,2025-09-11,Meals,Meals vendor 2,498
+EXP00520,2025-09-11,Meals,Meals vendor 2,347
+EXP00484,2025-09-13,Salaries,Salaries vendor 3,21230
+EXP00503,2025-09-13,Travel,Travel vendor 1,1296
+EXP00504,2025-09-13,Travel,Travel vendor 2,1549
+EXP00510,2025-09-13,Meals,Meals vendor 1,531
+EXP00519,2025-09-13,Meals,Meals vendor 1,612
+EXP00534,2025-09-13,Marketing,Marketing vendor 1,2219
+EXP00488,2025-09-14,Utilities,Utilities vendor 1,3403
+EXP00495,2025-09-15,Software,Software vendor 1,3506
+EXP00529,2025-09-15,Office supplies,Office supplies vendor 1,710
+EXP00492,2025-09-16,Software,Software vendor 1,4259
+EXP00499,2025-09-16,Travel,Travel vendor 3,1539
+EXP00538,2025-09-16,Marketing,Marketing vendor 2,2981
+EXP00482,2025-09-18,Salaries,Salaries vendor 1,33395
+EXP00496,2025-09-18,Software,Software vendor 2,4834
+EXP00518,2025-09-18,Meals,Meals vendor 3,482
+EXP00540,2025-09-19,Marketing,Marketing vendor 1,1876
+EXP00487,2025-09-20,Salaries,Salaries vendor 3,20414
+EXP00508,2025-09-20,Meals,Meals vendor 2,527
+EXP00532,2025-09-20,Marketing,Marketing vendor 2,1527
+EXP00535,2025-09-20,Marketing,Marketing vendor 2,2447
+EXP00511,2025-09-21,Meals,Meals vendor 2,577
+EXP00521,2025-09-21,Meals,Meals vendor 3,514
+EXP00525,2025-09-21,Office supplies,Office supplies vendor 3,1091
+EXP00505,2025-09-22,Travel,Travel vendor 3,2379
+EXP00516,2025-09-22,Meals,Meals vendor 1,507
+EXP00536,2025-09-22,Marketing,Marketing vendor 3,1806
+EXP00500,2025-09-23,Travel,Travel vendor 1,2514
+EXP00509,2025-09-23,Meals,Meals vendor 3,284
+EXP00522,2025-09-23,Meals,Meals vendor 1,778
+EXP00526,2025-09-23,Office supplies,Office supplies vendor 1,718
+EXP00498,2025-09-24,Travel,Travel vendor 2,2216
+EXP00524,2025-09-25,Office supplies,Office supplies vendor 2,1017
+EXP00491,2025-09-26,Utilities,Utilities vendor 1,3183
+EXP00502,2025-09-26,Travel,Travel vendor 3,2598
+EXP00506,2025-09-26,Travel,Travel vendor 1,1598
+EXP00493,2025-09-28,Software,Software vendor 2,2525
+EXP00513,2025-09-28,Meals,Meals vendor 1,728
+EXP00515,2025-09-28,Meals,Meals vendor 3,543
+EXP00517,2025-09-28,Meals,Meals vendor 2,648
+EXP00527,2025-09-28,Office supplies,Office supplies vendor 2,1157
+EXP00533,2025-09-28,Marketing,Marketing vendor 3,3625
+EXP00481,2025-09-30,Rent,Rent vendor 1,40000
+EXP00486,2025-09-30,Salaries,Salaries vendor 2,40631
+EXP00490,2025-09-30,Utilities,Utilities vendor 3,1915
+EXP00501,2025-09-30,Travel,Travel vendor 2,2403
+EXP00539,2025-09-30,Marketing,Marketing vendor 3,3615
+EXP00556,2025-10-01,Software,Software vendor 2,2721
+EXP00585,2025-10-01,Office supplies,Office supplies vendor 3,1000
+EXP00544,2025-10-03,Salaries,Salaries vendor 3,32735
+EXP00593,2025-10-03,Marketing,Marketing vendor 3,4153
+EXP00581,2025-10-04,Meals,Meals vendor 3,567
+EXP00588,2025-10-04,Office supplies,Office supplies vendor 3,1079
+EXP00543,2025-10-06,Salaries,Salaries vendor 2,26920
+EXP00568,2025-10-06,Meals,Meals vendor 2,772
+EXP00549,2025-10-07,Utilities,Utilities vendor 2,4832
+EXP00558,2025-10-07,Travel,Travel vendor 2,2402
+EXP00591,2025-10-08,Marketing,Marketing vendor 1,3681
+EXP00555,2025-10-09,Software,Software vendor 1,5109
+EXP00560,2025-10-09,Travel,Travel vendor 1,2135
+EXP00569,2025-10-09,Meals,Meals vendor 3,631
+EXP00586,2025-10-09,Office supplies,Office supplies vendor 1,900
+EXP00548,2025-10-10,Utilities,Utilities vendor 1,2641
+EXP00576,2025-10-10,Meals,Meals vendor 1,686
+EXP00599,2025-10-10,Marketing,Marketing vendor 3,3333
+EXP00579,2025-10-11,Meals,Meals vendor 1,572
+EXP00547,2025-10-12,Salaries,Salaries vendor 3,22096
+EXP00590,2025-10-12,Office supplies,Office supplies vendor 2,637
+EXP00550,2025-10-13,Utilities,Utilities vendor 3,3934
+EXP00554,2025-10-13,Software,Software vendor 3,3678
+EXP00584,2025-10-13,Office supplies,Office supplies vendor 2,1079
+EXP00541,2025-10-15,Rent,Rent vendor 1,40000
+EXP00545,2025-10-15,Salaries,Salaries vendor 1,39246
+EXP00582,2025-10-15,Meals,Meals vendor 1,776
+EXP00589,2025-10-15,Office supplies,Office supplies vendor 1,960
+EXP00596,2025-10-15,Marketing,Marketing vendor 3,2304
+EXP00573,2025-10-16,Meals,Meals vendor 1,678
+EXP00542,2025-10-18,Salaries,Salaries vendor 1,31923
+EXP00587,2025-10-18,Office supplies,Office supplies vendor 2,1089
+EXP00559,2025-10-20,Travel,Travel vendor 3,1059
+EXP00557,2025-10-21,Travel,Travel vendor 1,2288
+EXP00592,2025-10-21,Marketing,Marketing vendor 2,3406
+EXP00594,2025-10-21,Marketing,Marketing vendor 1,4523
+EXP00600,2025-10-21,Marketing,Marketing vendor 1,4444
+EXP00553,2025-10-22,Software,Software vendor 2,3669
+EXP00561,2025-10-22,Travel,Travel vendor 2,1923
+EXP00565,2025-10-22,Travel,Travel vendor 3,2136
+EXP00566,2025-10-22,Travel,Travel vendor 1,1645
+EXP00598,2025-10-23,Marketing,Marketing vendor 2,4347
+EXP00563,2025-10-24,Travel,Travel vendor 1,1517
+EXP00577,2025-10-24,Meals,Meals vendor 2,372
+EXP00562,2025-10-25,Travel,Travel vendor 3,2709
+EXP00564,2025-10-25,Travel,Travel vendor 2,2506
+EXP00575,2025-10-26,Meals,Meals vendor 3,437
+EXP00580,2025-10-26,Meals,Meals vendor 2,810
+EXP00583,2025-10-26,Office supplies,Office supplies vendor 1,471
+EXP00552,2025-10-27,Software,Software vendor 1,2523
+EXP00567,2025-10-27,Meals,Meals vendor 1,621
+EXP00571,2025-10-27,Meals,Meals vendor 2,518
+EXP00595,2025-10-27,Marketing,Marketing vendor 2,1910
+EXP00551,2025-10-28,Utilities,Utilities vendor 1,3163
+EXP00578,2025-10-28,Meals,Meals vendor 3,348
+EXP00570,2025-10-30,Meals,Meals vendor 1,445
+EXP00597,2025-10-30,Marketing,Marketing vendor 1,1649
+EXP00546,2025-10-31,Salaries,Salaries vendor 2,27080
+EXP00572,2025-10-31,Meals,Meals vendor 3,594
+EXP00574,2025-10-31,Meals,Meals vendor 2,325
+EXP00617,2025-11-01,Travel,Travel vendor 1,4757
+EXP00631,2025-11-01,Meals,Meals vendor 2,668
+EXP00646,2025-11-01,Office supplies,Office supplies vendor 1,487
+EXP00618,2025-11-02,Travel,Travel vendor 2,2764
+EXP00634,2025-11-02,Meals,Meals vendor 2,407
+EXP00647,2025-11-02,Office supplies,Office supplies vendor 2,753
+EXP00626,2025-11-03,Travel,Travel vendor 1,3533
+EXP00641,2025-11-03,Meals,Meals vendor 3,331
+EXP00608,2025-11-04,Utilities,Utilities vendor 1,3532
+EXP00614,2025-11-04,Software,Software vendor 3,2936
+EXP00639,2025-11-04,Meals,Meals vendor 1,320
+EXP00659,2025-11-04,Marketing,Marketing vendor 3,3784
+EXP00601,2025-11-05,Rent,Rent vendor 1,40000
+EXP00622,2025-11-05,Travel,Travel vendor 3,4340
+EXP00635,2025-11-05,Meals,Meals vendor 3,778
+EXP00632,2025-11-06,Meals,Meals vendor 3,675
+EXP00625,2025-11-07,Travel,Travel vendor 3,3675
+EXP00621,2025-11-08,Travel,Travel vendor 2,2003
+EXP00628,2025-11-08,Meals,Meals vendor 2,569
+EXP00633,2025-11-09,Meals,Meals vendor 1,574
+EXP00643,2025-11-10,Office supplies,Office supplies vendor 1,582
+EXP00654,2025-11-10,Marketing,Marketing vendor 1,4878
+EXP00620,2025-11-11,Travel,Travel vendor 1,2221
+EXP00630,2025-11-11,Meals,Meals vendor 1,384
+EXP00604,2025-11-12,Salaries,Salaries vendor 3,54212
+EXP00613,2025-11-12,Software,Software vendor 2,1796
+EXP00616,2025-11-12,Software,Software vendor 2,4892
+EXP00602,2025-11-13,Salaries,Salaries vendor 1,19763
+EXP00650,2025-11-13,Office supplies,Office supplies vendor 2,782
+EXP00651,2025-11-13,Marketing,Marketing vendor 1,2119
+EXP00637,2025-11-14,Meals,Meals vendor 2,545
+EXP00658,2025-11-14,Marketing,Marketing vendor 2,3919
+EXP00603,2025-11-15,Salaries,Salaries vendor 2,19468
+EXP00644,2025-11-15,Office supplies,Office supplies vendor 2,738
+EXP00655,2025-11-15,Marketing,Marketing vendor 2,2866
+EXP00610,2025-11-16,Utilities,Utilities vendor 3,2515
+EXP00642,2025-11-16,Meals,Meals vendor 1,451
+EXP00648,2025-11-16,Office supplies,Office supplies vendor 3,828
+EXP00638,2025-11-17,Meals,Meals vendor 3,681
+EXP00653,2025-11-17,Marketing,Marketing vendor 3,3289
+EXP00656,2025-11-17,Marketing,Marketing vendor 3,2260
+EXP00624,2025-11-19,Travel,Travel vendor 2,3743
+EXP00629,2025-11-19,Meals,Meals vendor 3,688
+EXP00611,2025-11-20,Utilities,Utilities vendor 1,3515
+EXP00652,2025-11-20,Marketing,Marketing vendor 2,4226
+EXP00657,2025-11-20,Marketing,Marketing vendor 1,2183
+EXP00645,2025-11-21,Office supplies,Office supplies vendor 3,643
+EXP00605,2025-11-22,Salaries,Salaries vendor 1,22328
+EXP00615,2025-11-22,Software,Software vendor 1,3181
+EXP00607,2025-11-23,Salaries,Salaries vendor 3,37600
+EXP00606,2025-11-24,Salaries,Salaries vendor 2,26629
+EXP00636,2025-11-24,Meals,Meals vendor 1,780
+EXP00640,2025-11-24,Meals,Meals vendor 2,716
+EXP00619,2025-11-26,Travel,Travel vendor 3,2891
+EXP00623,2025-11-26,Travel,Travel vendor 1,3073
+EXP00627,2025-11-26,Meals,Meals vendor 1,553
+EXP00660,2025-11-26,Marketing,Marketing vendor 1,4226
+EXP00609,2025-11-27,Utilities,Utilities vendor 2,4773
+EXP00612,2025-11-28,Software,Software vendor 1,4895
+EXP00649,2025-11-28,Office supplies,Office supplies vendor 1,951
+EXP00687,2025-12-01,Meals,Meals vendor 1,529
+EXP00698,2025-12-01,Meals,Meals vendor 3,321
+EXP00715,2025-12-01,Marketing,Marketing vendor 2,3063
+EXP00672,2025-12-02,Software,Software vendor 1,2430
+EXP00705,2025-12-02,Office supplies,Office supplies vendor 3,577
+EXP00714,2025-12-02,Marketing,Marketing vendor 1,3669
+EXP00671,2025-12-03,Utilities,Utilities vendor 1,4972
+EXP00694,2025-12-03,Meals,Meals vendor 2,479
+EXP00699,2025-12-03,Meals,Meals vendor 1,285
+EXP00707,2025-12-03,Office supplies,Office supplies vendor 2,1025
+EXP00683,2025-12-04,Travel,Travel vendor 1,4414
+EXP00678,2025-12-05,Travel,Travel vendor 2,2566
+EXP00690,2025-12-05,Meals,Meals vendor 1,563
+EXP00695,2025-12-05,Meals,Meals vendor 3,220
+EXP00688,2025-12-06,Meals,Meals vendor 2,450
+EXP00677,2025-12-07,Travel,Travel vendor 1,1870
+EXP00702,2025-12-07,Meals,Meals vendor 1,352
+EXP00716,2025-12-07,Marketing,Marketing vendor 3,2214
+EXP00719,2025-12-07,Marketing,Marketing vendor 3,3722
+EXP00681,2025-12-08,Travel,Travel vendor 2,4112
+EXP00711,2025-12-08,Marketing,Marketing vendor 1,4012
+EXP00708,2025-12-09,Office supplies,Office supplies vendor 3,779
+EXP00717,2025-12-10,Marketing,Marketing vendor 1,4270
+EXP00663,2025-12-11,Salaries,Salaries vendor 2,34123
+EXP00684,2025-12-12,Travel,Travel vendor 2,3308
+EXP00666,2025-12-13,Salaries,Salaries vendor 2,23036
+EXP00693,2025-12-13,Meals,Meals vendor 1,466
+EXP00712,2025-12-13,Marketing,Marketing vendor 2,3313
+EXP00662,2025-12-14,Salaries,Salaries vendor 1,28600
+EXP00667,2025-12-14,Salaries,Salaries vendor 3,34380
+EXP00665,2025-12-15,Salaries,Salaries vendor 1,33821
+EXP00709,2025-12-15,Office supplies,Office supplies vendor 1,983
+EXP00670,2025-12-16,Utilities,Utilities vendor 3,2583
+EXP00680,2025-12-16,Travel,Travel vendor 1,3758
+EXP00701,2025-12-17,Meals,Meals vendor 3,339
+EXP00675,2025-12-18,Software,Software vendor 1,3622
+EXP00676,2025-12-18,Software,Software vendor 2,2614
+EXP00686,2025-12-18,Travel,Travel vendor 1,3239
+EXP00673,2025-12-19,Software,Software vendor 2,3868
+EXP00691,2025-12-19,Meals,Meals vendor 2,618
+EXP00704,2025-12-20,Office supplies,Office supplies vendor 2,467
+EXP00713,2025-12-20,Marketing,Marketing vendor 3,2593
+EXP00697,2025-12-21,Meals,Meals vendor 2,557
+EXP00668,2025-12-22,Utilities,Utilities vendor 1,2780
+EXP00679,2025-12-22,Travel,Travel vendor 3,3503
+EXP00692,2025-12-22,Meals,Meals vendor 3,552
+EXP00706,2025-12-22,Office supplies,Office supplies vendor 1,586
+EXP00710,2025-12-22,Office supplies,Office supplies vendor 2,466
+EXP00696,2025-12-24,Meals,Meals vendor 1,599
+EXP00700,2025-12-24,Meals,Meals vendor 2,504
+EXP00703,2025-12-25,Office supplies,Office supplies vendor 1,678
+EXP00720,2025-12-25,Marketing,Marketing vendor 1,2932
+EXP00664,2025-12-27,Salaries,Salaries vendor 3,26040
+EXP00661,2025-12-28,Rent,Rent vendor 1,40000
+EXP00682,2025-12-28,Travel,Travel vendor 3,3670
+EXP00685,2025-12-28,Travel,Travel vendor 3,2560
+EXP00689,2025-12-28,Meals,Meals vendor 3,548
+EXP00669,2025-12-30,Utilities,Utilities vendor 2,2780
+EXP00674,2025-12-31,Software,Software vendor 3,5166
+EXP00718,2025-12-31,Marketing,Marketing vendor 2,3962

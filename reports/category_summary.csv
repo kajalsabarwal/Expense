@@ -1,0 +1,9 @@
+category,budget_inr,actual_inr,over_budget_inr,utilization,spend_share_pct
+Salaries,2160000,2160000,0,1.0,57.15
+Rent,480000,480000,0,1.0,12.7
+Marketing,300000,332469,32469,1.1082,8.8
+Travel,240000,274303,34303,1.1429,7.26
+Software,180000,212400,32400,1.18,5.62
+Utilities,144000,147243,3243,1.0225,3.9
+Meals,96000,97130,1130,1.0118,2.57
+Office supplies,72000,75864,3864,1.0537,2.01
